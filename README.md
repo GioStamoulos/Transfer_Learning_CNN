@@ -33,7 +33,7 @@ Labels = ['Benjamin_Netanyau', 'Jens_Stoltenberg', 'Julia_Gillard', 'Magaret_Tar
 ![image](https://user-images.githubusercontent.com/60938391/125196052-fdef7a80-e260-11eb-9122-6e2b73e649ec.png)
 
 **Transfer Learning**  
-  The two dataset were utilized for image classification. For this classification task were tried to apply transfer learning from Mnist Fashion to "Recognize a Speaker" and transfer learning inside of Mnist Fashion. Transfer learning (TL) is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem [West et.al. 2007]. Were utilized the 2 different CNN architectures for the same transfer learning experiments just for comparing. 
+  The two datasets were utilized for image classification. For this classification task were tried to apply transfer learning from Mnist Fashion to "Recognize a Speaker" and transfer learning inside of Mnist Fashion. Transfer learning (TL) is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem [West et.al. 2007]. Were utilized the 2 different CNN architectures for the same transfer learning experiments just for comparing. 
   
 **Transfer Learning tasks**  
 •	Train Under5 labels Fashion Mnist.  
